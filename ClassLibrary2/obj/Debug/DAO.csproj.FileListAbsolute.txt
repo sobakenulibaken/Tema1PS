@@ -1,0 +1,7 @@
+C:\Users\Sobaka Ulibaka\documents\visual studio 2013\Projects\Tema1\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+C:\Users\Sobaka Ulibaka\documents\visual studio 2013\Projects\Tema1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Sobaka Ulibaka\documents\visual studio 2013\Projects\Tema1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Sobaka Ulibaka\documents\visual studio 2013\Projects\Tema1\ClassLibrary2\bin\Debug\MySql.Data.dll
+C:\Users\Sobaka Ulibaka\documents\visual studio 2013\Projects\Tema1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Sobaka Ulibaka\documents\visual studio 2013\Projects\Tema1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Sobaka Ulibaka\Documents\Visual Studio 2013\Projects\Tema1\ClassLibrary2\obj\Debug\DAO.csprojResolveAssemblyReference.cache
